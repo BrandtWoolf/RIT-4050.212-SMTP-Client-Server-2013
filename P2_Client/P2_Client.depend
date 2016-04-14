@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1363790154 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_client\clientsocket.cpp
+	"ClientSocket.h"
+
+1363790154 c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_client\clientsocket.h
+	"Socket.h"
+
+1363791406 c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363833789 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_client\main.cpp
+	<iostream>
+	"Socket.h"
+	"ClientSocket.h"
+
+1363833725 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_client\socket.cpp
+	"Socket.h"
+
+1363894434 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_client\clientsocket.cpp
+	"ClientSocket.h"
+
+1363894434 c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_client\clientsocket.h
+	"Socket.h"
+
+1363894434 c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363895642 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_client\socket.cpp
+	"Socket.h"
+
+1363895776 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_client\main.cpp
+	<iostream>
+	"Socket.h"
+	"ClientSocket.h"
+
+1364348819 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_client\main.cpp
+	<iostream>
+	"Socket.h"
+	"ClientSocket.h"
+
+1363894434 c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363894434 c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_client\clientsocket.h
+	"Socket.h"
+
+1363895642 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_client\socket.cpp
+	"Socket.h"
+
+1363991209 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_client\clientsocket.cpp
+	"ClientSocket.h"
+

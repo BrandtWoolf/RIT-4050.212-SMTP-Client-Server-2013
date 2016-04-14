@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1363890188 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_server\main.cpp
+	<iostream>
+	"Socket.h"
+	"ServerSocket.h"
+
+1363791440 c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363789494 c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_server\serversocket.h
+	"Socket.h"
+
+1363789744 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_server\serversocket.cpp
+	"ServerSocket.h"
+
+1363833715 source:c:\users\ejr\desktop\clt-ser programming\project 2.1\p2_server\socket.cpp
+	"Socket.h"
+
+1363890945 source:c:\users\brandt\google drive\spring 2013\client server programming\project 2.1\project 2.2\p2_server\serversocket.cpp
+	"ServerSocket.h"
+
+1363890947 c:\users\brandt\google drive\spring 2013\client server programming\project 2.1\project 2.2\p2_server\serversocket.h
+	"Socket.h"
+
+1363890952 c:\users\brandt\google drive\spring 2013\client server programming\project 2.1\project 2.2\p2_server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363890950 source:c:\users\brandt\google drive\spring 2013\client server programming\project 2.1\project 2.2\p2_server\socket.cpp
+	"Socket.h"
+
+1363894435 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_server\serversocket.cpp
+	"ServerSocket.h"
+
+1363894435 c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_server\serversocket.h
+	"Socket.h"
+
+1363894435 c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363894435 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_server\socket.cpp
+	"Socket.h"
+
+1363896007 source:c:\users\ejr\desktop\clt-ser programming\project 2.2\p2_server\main.cpp
+	<iostream>
+	"Socket.h"
+	"ServerSocket.h"
+
+1364580027 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_server\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Socket.h"
+	"ServerSocket.h"
+
+1364222475 c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_server\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1364262678 c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_server\serversocket.h
+	"Socket.h"
+	<vector>
+
+1363894435 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_server\socket.cpp
+	"Socket.h"
+
+1364349860 source:c:\users\ejr\desktop\clt-ser programming\project 2.3\p2_server\serversocket.cpp
+	"ServerSocket.h"
+	<dirent.h>
+	<sstream>
+
